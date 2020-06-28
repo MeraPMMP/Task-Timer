@@ -1,0 +1,5 @@
+name: TimerTest
+version: 1.0
+api: 3.12.0
+author: MeraBy5548
+main: Mera\Main
